@@ -178,6 +178,8 @@
 #3F84B7 minecraft:grass_block
 #2D9BC4 gtceu:gregification_hazard_sign_block
 #32E756 gtceu:grossular_indicator
+#0E5198 mcwroofs:gutter_base_light_gray
+#6C1554 mcwroofs:gutter_middle_light_gray
 #656D96 gtceu:hastelloy_x_frame
 #7762B0 architects_palette:hazard_sign
 #9D79AA gtceu:heatproof_machine_casing
@@ -438,6 +440,9 @@
 #B21185 minecraft:stone_brick_slab
 #968244 mcwstairs:stone_brick_terrace_stairs
 #F8955F minecraft:stone_bricks
+#7EBAA7 mcwroofs:stone_bricks_lower_roof
+#6E8993 mcwroofs:stone_bricks_top_roof
+#FECC24 mcwroofs:stone_bricks_upper_lower_roof
 #5AA646 rftoolsstorage:storage_scanner
 #A88E8E minecraft:stripped_oak_wood
 #5E72B7 mekanism:structural_glass
