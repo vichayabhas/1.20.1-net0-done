@@ -125,7 +125,10 @@
 #66AA25 gtceu:enriched_naquadah_trinium_europium_duranide_quadruple_wire
 #DB8F90 gtceu:enriched_naquadah_trinium_europium_duranide_single_wire
 #4D789D gtceu:ev_air_scrubber
+#8CFAAE gtceu:ev_battery_buffer_16x
 #E28FDD gtceu:ev_battery_buffer_4x
+#E29059 gtceu:ev_battery_buffer_8x
+#1955F7 gtceu:ev_diode
 #F0EF1C gtceu:ev_energy_input_hatch
 #B311E4 gtceu:ev_energy_input_hatch_4a
 #479FC5 gtceu:ev_energy_output_hatch
@@ -221,6 +224,7 @@
 #DC76EE gtceu:industrial_tnt
 #9D871C gtceu:inert_machine_casing
 #8E9B05 minecraft:infested_deepslate
+#EAE85A minecraft:infested_stone_bricks
 #D7B7C0 expatternprovider:ingredient_buffer
 #23066B ae2:interface
 #2E2249 minecraft:iron_block
@@ -229,10 +233,12 @@
 #A7A101 mcwbridges:iron_bridge_stair
 #99FCFE mekanism:isotopic_centrifuge
 #7323DF gtceu:iv_256a_laser_target_hatch
+#69E959 gtceu:iv_battery_buffer_4x
 #9E0973 gtceu:iv_diode
 #52E3BA gtceu:iv_electrolyzer
 #54C520 gtceu:iv_energy_input_hatch
 #5E8A41 gtceu:iv_energy_output_hatch
+#FE3CDE gtceu:iv_energy_output_hatch_16a
 #9F9C73 gtceu:iv_input_bus
 #AE2DD8 gtceu:iv_kinetic_input_box
 #ADA17F gtceu:iv_kinetic_output_box
@@ -283,6 +289,7 @@
 #CF5750 gtceu:luv_substation_input_hatch_64a
 #C74222 gtceu:luv_transformer_1a
 #C7427F gtceu:luv_transformer_4a
+#BBB135 gtceu:lv_battery_buffer_16x
 #4F6C76 gtceu:lv_battery_buffer_4x
 #4F6CF2 gtceu:lv_battery_buffer_8x
 #E8309A gtceu:lv_canner
@@ -298,6 +305,7 @@
 #C364D0 gtceu:lv_input_hatch
 #F35E78 gtceu:lv_item_passthrough_hatch
 #4C9954 gtceu:lv_machine_hull
+#EB15B7 gtceu:lv_muffler_hatch
 #730491 gtceu:lv_output_bus
 #C3E091 gtceu:lv_output_hatch
 #122555 gtceu:lv_packer
@@ -307,11 +315,13 @@
 #430F24 gtceu:lv_transformer_2a
 #430F62 gtceu:lv_transformer_4a
 #D7DC40 gtceu:magic_hazard_sign_block
+#E3249F gtceu:magnesium_diboride_double_wire
 #4A682D gtceu:magnesium_diboride_quadruple_wire
 #17CE88 gtceu:magnesium_diboride_single_wire
 #846DFA gtceu:magnetite_indicator
 #1B388E gtceu:maintenance_hatch
 #D3C882 gtceu:manganese_phosphide_double_wire
+#5137EE gtceu:manganese_phosphide_hex_wire
 #0850FE gtceu:manganese_phosphide_octal_wire
 #DA156A gtceu:manganese_phosphide_quadruple_wire
 #08726B gtceu:manganese_phosphide_single_wire
@@ -329,12 +339,15 @@
 #38AE7D minecraft:moving_piston
 #28CAA5 gtceu:mv_air_scrubber
 #54A6B6 gtceu:mv_battery_buffer_16x
+#F142D5 gtceu:mv_battery_buffer_4x
 #F14351 gtceu:mv_battery_buffer_8x
 #8DDC10 gtceu:mv_buffer
+#22BCEF gtceu:mv_diode
 #C08CBE gtceu:mv_electrolyzer
 #B89B24 gtceu:mv_energy_input_hatch
 #1B1A02 gtceu:mv_fluid_heater
 #6631EF gtceu:mv_input_bus
+#F60B12 gtceu:mv_output_bus
 #9F4AD2 gtceu:mv_output_hatch
 #759FFE gtceu:mv_super_tank
 #ECED06 gtceu:mv_transformer_1a

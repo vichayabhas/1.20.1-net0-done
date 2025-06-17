@@ -12,5 +12,16 @@
             ],
             "url": "./.vscode/probe.doc-schema.json"
         }
+    ],
+    "cSpell.words": [
+        "electrolyzer",
+        "formamide",
+        "gtceu",
+        "kubejs",
+        "naquadah",
+        "naquadria",
+        "solidifier",
+        "trifluoride",
+        "trinium"
     ]
 }
