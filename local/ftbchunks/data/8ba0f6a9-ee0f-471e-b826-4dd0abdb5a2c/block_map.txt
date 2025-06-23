@@ -11,6 +11,7 @@
 #2FB94D mekanism:advanced_pressurized_tube
 #138449 mekanism:advanced_universal_cable
 #52B53D minecraft:air
+#431936 gtceu:aluminium_tiny_fluid_pipe
 #7E2471 gtceu:americium_huge_item_pipe
 #17F1FF create:analog_lever
 #A671B6 gtceu:antimatter_hazard_sign_block
@@ -27,6 +28,7 @@
 #18D108 minecraft:basalt
 #F03BD3 gtceu:basaltic_mineral_sand_indicator
 #B81A93 mekanism:basic_bin
+#3A27C3 mekanism:basic_chemical_tank
 #0BDD20 mekanism:basic_crushing_factory
 #55BED4 mekanism:basic_enriching_factory
 #6C9CEE mekanism:basic_induction_cell
@@ -109,6 +111,7 @@
 #4FA7D0 minecraft:dirt_path
 #637996 gtceu:distillation_tower
 #E432BC ae2:drive
+#19A3C1 minecraft:dropper
 #4576E9 gtceu:electric_blast_furnace
 #54BD67 mekanism:electric_pump
 #006086 gtceu:electrolytic_cell
@@ -169,6 +172,7 @@
 #3B9BFB gtceu:fusion_glass
 #8BD151 mekanismgenerators:fusion_reactor_controller
 #F7D672 mekanismgenerators:fusion_reactor_frame
+#6E8073 mekanismgenerators:fusion_reactor_logic_adapter
 #328836 mekanismgenerators:fusion_reactor_port
 #380250 gtceu:galena_indicator
 #0C3C48 gtceu:garnet_sand_indicator
@@ -261,6 +265,7 @@
 #4C2B3B gtnn:large_naquadah_reactor
 #01B07F gtceu:large_scale_assembler_casing
 #7CC955 gtceu:large_sifting_funnel
+#238AD9 mekanismgenerators:laser_focus_matrix
 #4625DE gtceu:laser_hazard_sign_block
 #72D77D minecraft:lever
 #D4FF84 minecraft:light_blue_wool
@@ -431,6 +436,7 @@
 #FEDDE0 gtceu:salt_indicator
 #368124 gtceu:samarium_iron_arsenic_oxide_hex_wire
 #4B1575 gtceu:samarium_iron_arsenic_oxide_single_wire
+#86FC77 minecraft:sand
 #59693F mekanismgenerators:saturating_condenser
 #60B81F minecraft:scaffolding
 #5B6E65 gtceu:secure_maceration_casing
@@ -467,6 +473,7 @@
 #D85649 gtceu:test_use_t
 #B12AD5 mekanism:thermal_evaporation_block
 #C5F7D8 mekanism:thermal_evaporation_valve
+#7D0880 rftoolsutility:timer
 #2F02F6 gtceu:tin_small_item_pipe
 #2F5CAD ae2:tiny_tnt
 #6B4DEA gtceu:titanium_drum
