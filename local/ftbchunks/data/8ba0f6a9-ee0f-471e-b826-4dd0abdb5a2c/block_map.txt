@@ -39,6 +39,7 @@
 #840F59 minecraft:bedrock
 #7F50F6 minecraft:bell
 #0DAEDB gtceu:bio_hazard_sign_block
+#BF5209 mcwwindows:birch_curtain_rod
 #18BD58 mcwbridges:birch_log_bridge_middle
 #73D2B3 minecraft:birch_planks
 #B152E8 minecraft:black_wool
@@ -451,11 +452,15 @@
 #AADBFC gtceu:stainless_steel_huge_fluid_pipe
 #01BD80 gtceu:stainless_steel_normal_fluid_pipe
 #E197A4 gtceu:steel_pipe_casing
+#053BA8 gtceu:steel_tiny_fluid_pipe
 #3A984F gtceu:sterilizing_filter_casing
+#753082 minecraft:sticky_piston
 #9266A1 mcwstairs:stone_brick_balcony
 #0602B8 mcwbridges:stone_brick_bridge
+#EA6073 mcwstairs:stone_brick_compact_stairs
 #D10000 mcwstairs:stone_brick_platform
 #CFD4ED mcwstairs:stone_brick_railing
+#8682C1 mcwstairs:stone_brick_skyline_stairs
 #B21185 minecraft:stone_brick_slab
 #968244 mcwstairs:stone_brick_terrace_stairs
 #F8955F minecraft:stone_bricks

@@ -4950,5 +4950,59 @@
     },
     "done": true
   },
+  "igleelib:recipes/igleelib/lavium_block": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/blazum_ingot": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/iglium_upgrade_smithing_template": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/modium_block": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/lavium_ingot": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/derium_ingot": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/modium_ingot": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/blazum_block": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/derium_block": {
+    "criteria": {
+      "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
