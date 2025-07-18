@@ -35,7 +35,14 @@
 		"{data:{Amount:1000,FluidName:\"gtceu:fluoroantimonic_acid\",type:\"minecraft:fluid\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"gtceu:magnesium_diboride_octal_wire\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"gtceu:manganese_phosphide_hex_wire\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Amount:1000,FluidName:\"gtceu:formamide\",type:\"minecraft:fluid\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Amount:1000,FluidName:\"gtceu:formamide\",type:\"minecraft:fluid\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Amount:1000,FluidName:\"dynamicelectricity:fluidlubricant\",type:\"minecraft:fluid\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"electrodynamics:chemicalmixer\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"dynamicelectricity:dustpdsm\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"electrodynamics:dustsilica\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"dynamicelectricity:dustcarbon\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"electrodynamics:mineralcrusher\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"electrodynamics:oxidationfurnace\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": [

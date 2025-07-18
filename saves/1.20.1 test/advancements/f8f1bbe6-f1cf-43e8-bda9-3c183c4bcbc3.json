@@ -1401,12 +1401,6 @@
     },
     "done": true
   },
-  "appmek:recipes/misc/chemical_cell_housing": {
-    "criteria": {
-      "has_dusts/redstone": "2024-03-21 11:23:42 +0700"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-03-21 11:23:42 +0700"
@@ -5001,6 +4995,96 @@
   "igleelib:recipes/igleelib/derium_block": {
     "criteria": {
       "unlock": "2025-06-28 12:06:28 +0700"
+    },
+    "done": true
+  },
+  "voltaic:dispenseguidebook": {
+    "criteria": {
+      "SpawnIn": "2025-07-03 23:20:23 +0700"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_checkered_panel": {
+    "criteria": {
+      "hasFramedCheckeredCube": "2025-07-07 14:32:00 +0700"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_checkered_slab": {
+    "criteria": {
+      "hasFramedCheckeredCube": "2025-07-07 14:32:00 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-07 14:32:24 +0700"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-07 14:32:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 14:32:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 14:32:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 14:32:30 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:carbynebatterybox": {
+    "criteria": {
+      "HasBatteryBox": "2025-07-12 16:47:48 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:multimeter": {
+    "criteria": {
+      "HasMeter": "2025-07-12 17:06:07 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:upgradetransformer": {
+    "criteria": {
+      "HasTransformer": "2025-07-12 17:12:50 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:downgradetransformer": {
+    "criteria": {
+      "HasTransformer": "2025-07-12 17:49:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-12 21:59:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 21:59:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 21:59:48 +0700"
     },
     "done": true
   },
