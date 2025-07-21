@@ -479,6 +479,7 @@
 #7F6970 mekanism:solar_neutron_activator
 #80CB73 gtceu:solid_machine_casing
 #479613 gtceu:spatial_storage_hazard_sign_block
+#ECF2CD minecraft:sponge
 #0197EA mcwbridges:spruce_log_bridge_middle
 #49DF61 minecraft:spruce_planks
 #FC73B3 mekanism:sps_casing
