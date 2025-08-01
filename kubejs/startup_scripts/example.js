@@ -11,6 +11,7 @@ StartupEvents.registry('item', e => {
     e.create('power_ingot')
     e.create('new_sulfur_trioxide_token')
     e.create('used_sulfur_trioxide_token')
+    e.create('new_token')
 
 })
 // GTCEuStartupEvents.registry('gtceu:recipe_type', event => {

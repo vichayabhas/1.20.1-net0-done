@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","gtceu:dynamic_assets","file/Power of Sounds 1.1","file/ClassicMekTexutres.zip","file/Gregtech-CEu-Modern-Programmer-art.zip","file/Mek icon Compatibility1.20.1→1.19.2.zip"]
+resourcePacks:["vanilla","mod_resources","gtceu:dynamic_assets","file/ClassicMekTexutres.zip","file/Gregtech-CEu-Modern-Programmer-art.zip","file/Mek icon Compatibility1.20.1→1.19.2.zip","file/Power of Sounds 1.1"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -169,6 +169,7 @@ key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
+key_key.control:key.keyboard.left.control
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
@@ -185,6 +186,12 @@ key_key.mekanism.key_hud:key.keyboard.h
 key_key.openManual:key.keyboard.f1
 key_key.nextDestination:key.keyboard.right.bracket
 key_key.prevDestination:key.keyboard.left.bracket
+key_key.electrodynamics.jetpackascend:key.keyboard.space
+key_key.electrodynamics.jetpackmode:key.keyboard.m
+key_key.electrodynamics.togglenvgs:key.keyboard.n
+key_key.electrodynamics.servoleggingsmode:key.keyboard.l
+key_key.electrodynamics.toggleservoleggings:key.keyboard.k
+key_key.electrodynamics.swapbattery:key.keyboard.r
 key_key.toastcontrol.clear:key.keyboard.j
 key_key.toolbelt.open:key.keyboard.r
 key_key.toolbelt.cycle.left:key.keyboard.unknown

@@ -5088,5 +5088,41 @@
     },
     "done": true
   },
+  "appmek:recipes/misc/chemical_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-30 16:46:01 +0700"
+    },
+    "done": true
+  },
+  "assemblyline:root": {
+    "criteria": {
+      "getaconveyerbelt": "2025-07-30 17:26:41 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_pattern_encoding": {
+    "criteria": {
+      "has_crafting_terminal": "2025-08-01 12:59:21 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2025-08-01 12:59:21 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2025-08-01 13:03:27 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/patterns_blank": {
+    "criteria": {
+      "has_pattern_encoding_terminal": "2025-08-01 13:03:27 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

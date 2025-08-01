@@ -1,3 +1,5 @@
+#81FB17 ae2:256k_crafting_storage
+#955207 mae2:256x_crafting_accelerator
 #002750 gtceu:acid_hazard_sign_block
 #0D29DA gtceu:active_transformer
 #399487 mekanism:advanced_bin
@@ -90,6 +92,7 @@
 #2BFCCE ae2:controller
 #EC89B5 storagedrawers:controller
 #B89B38 nuclearscience:controlrodmodule
+#BB3ABC assemblyline:conveyorbelt
 #F9D6E3 gtceu:copper_indicator
 #BE069D gtceu:copper_octal_cable
 #CC07F6 minecraft:cornflower
@@ -163,6 +166,7 @@
 #9DFD1D gtceu:ev_transformer_2a
 #9DFD5B gtceu:ev_transformer_4a
 #95DBA8 gtceu:explosion_hazard_sign_block
+#ABA7F5 nuclearscience:falloutscrubber
 #009B14 minecraft:farmland
 #8D7889 gtceu:fire_hazard_sign_block
 #A17332 mekanismgenerators:fission_fuel_assembly
@@ -355,6 +359,9 @@
 #DA156A gtceu:manganese_phosphide_quadruple_wire
 #08726B gtceu:manganese_phosphide_single_wire
 #36531E gtceu:me_input_bus
+#EDBFDE gtceu:me_input_hatch
+#2A0FC3 gtceu:me_output_bus
+#E4E743 gtceu:me_output_hatch
 #EE59D0 gtceu:me_pattern_buffer
 #7DAEBF gtceu:me_pattern_buffer_proxy
 #F12799 gtceu:me_stocking_input_bus
@@ -595,6 +602,7 @@
 #A4B5D5 gtceu:wood_frame
 #97FF93 minecraft:yellow_wool
 #3D0EEA gtceu:zpm_1a_energy_converter
+#12E097 gtceu:zpm_dual_output_hatch
 #8DE216 gtceu:zpm_energy_input_hatch
 #63A233 gtceu:zpm_energy_input_hatch_16a
 #0A84AA gtceu:zpm_energy_input_hatch_4a
