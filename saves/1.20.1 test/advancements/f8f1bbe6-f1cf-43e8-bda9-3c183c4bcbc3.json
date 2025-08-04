@@ -53,12 +53,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/concealment_key": {
-    "criteria": {
-      "has_template": "2023-11-29 11:22:14 +0700"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2023-11-29 11:22:14 +0700"
@@ -5085,6 +5079,66 @@
   "ae2:recipes/misc/network/crafting/patterns_blank": {
     "criteria": {
       "has_pattern_encoding_terminal": "2025-08-01 13:03:27 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/priority_key": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2025-08-04 21:44:02 +0700"
     },
     "done": true
   },
