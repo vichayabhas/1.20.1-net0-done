@@ -140,6 +140,10 @@ export interface Operations {
    * Get a copy of the given ingredients with the given fluid at the given ingredient position
    */
   ingredientsWithFluid: (arg0: ValueIngredients, arg1: number, arg2: ValueFluidstack) => ValueIngredients;
+  /**
+   * The Tag names (strings) of the given block
+   */
+  blockTags: (arg0: ValueBlock) => any[];
   stringParseAsDouble: (arg0: string) => number;
   /**
    * Get a copy of the given NBT compound tag with the given Double as a float entry
@@ -193,6 +197,10 @@ export interface Operations {
    */
   nbtMinus: (arg0: Record<string, any>, arg1: Record<string, any>) => Record<string, any>;
   /**
+   * In the context of the given Player Entity, get the tooltip of the given item as a list of strings.
+   */
+  entityEntityItemTooltip: (arg0: ValueEntity, arg1: ValueItemstack) => any[];
+  /**
    * Get a copy of the given NBT compound tag with the given NBT Long Array entry
    */
   nbtWithListLong: (arg0: Record<string, any>, arg1: string, arg2: any[]) => Record<string, any>;
@@ -201,7 +209,7 @@ export interface Operations {
    */
   stringLength: (arg0: string) => number;
   /**
-   * The Tag values (items) of the given name
+   * The Tag values (items) of the given item tag name
    */
   stringItemsByTag: (arg0: string) => any[];
   /**
@@ -238,6 +246,10 @@ export interface Operations {
    * Get a list containing pieces, split on the given regular expression, of the given string.
    */
   stringSplitOnRegex: (arg0: string, arg1: string) => any[];
+  /**
+   * Set the NBT tag of the given item.
+   */
+  itemstackItemWithTag: (arg0: ValueItemstack, arg1: Record<string, any>) => ValueItemstack;
   numberLessThan: (arg0: number, arg1: number) => boolean;
   integerComplement: (arg0: number) => number;
   /**
@@ -284,6 +296,10 @@ export interface Operations {
    * If the fluid is lighter than air
    */
   fluidstackIsLighterThanAir: (arg0: ValueFluidstack) => boolean;
+  /**
+   * Check if two lists are equal according to set semantics.
+   */
+  listEquals_set: (arg0: any[], arg1: any[]) => boolean;
   /**
    * The entities that are currently mounted on the given entity.
    */
@@ -355,6 +371,10 @@ export interface Operations {
    * The output ingredients of the given recipe
    */
   recipeOutput: (arg0: ValueRecipe) => ValueIngredients;
+  /**
+   * Set the NBT tag of the given fluid.
+   */
+  fluidstackFluidWithTag: (arg0: ValueFluidstack, arg1: Record<string, any>) => ValueFluidstack;
   /**
    * Get a copy of the given ingredients with the given list of fluids at the given ingredient position
    */
@@ -503,6 +523,7 @@ export interface Operations {
    */
   operatorApply3: (arg0: Function, arg1: any, arg2: any, arg3: any) => any;
   booleanNot: (arg0: boolean) => boolean;
+  doubleSqrt: (arg0: number) => number;
   /**
    * If the given block is a plant
    */
@@ -634,6 +655,7 @@ export interface Operations {
    */
   ingredientsWithEnergy: (arg0: ValueIngredients, arg1: number, arg2: number) => ValueIngredients;
   integerIncrement_old: (arg0: number) => number;
+  doublePow: (arg0: number, arg1: number) => number;
   /**
    * Get all possible block properties as NBT compound tag with list values.
    */
@@ -674,6 +696,10 @@ export interface Operations {
    * The hurt sound of the given entity.
    */
   entityHurtSound: (arg0: ValueEntity) => string;
+  /**
+   * Get the tooltip of the given item as a list of strings.
+   */
+  itemstackTooltip: (arg0: ValueItemstack) => any[];
   /**
    * The fluid density
    */
@@ -731,6 +757,10 @@ export interface Operations {
    * If the given entity can be breed using the given item.
    */
   entityCanBreedWith: (arg0: ValueEntity, arg1: ValueItemstack) => boolean;
+  /**
+   * The Tag names (strings) of the given fluid
+   */
+  fluidstackTags: (arg0: ValueFluidstack) => any[];
   /**
    * Create an NBT Long Array tag from the given Long List value
    */
@@ -800,6 +830,10 @@ export interface Operations {
    * Apply the given NBT Path expression on the given NBT value, and return the first match
    */
   stringNbtPathMatchFirst: (arg0: string, arg1: Record<string, any>) => Record<string, any>;
+  /**
+   * The Tag values (fluids) of the given fluid tag name
+   */
+  stringFluidsByTag: (arg0: string) => any[];
   /**
    * Get the given entity as NBT.
    */
@@ -916,6 +950,10 @@ export interface Operations {
    */
   entityHasGuiOpen: (arg0: ValueEntity) => boolean;
   /**
+   * Check if two lists are equal according to multiset semantics.
+   */
+  listEquals_multiset: (arg0: any[], arg1: any[]) => boolean;
+  /**
    * Retrieve the inventory of the given item handler contents
    */
   itemstackInventory: (arg0: ValueItemstack) => any[];
@@ -977,6 +1015,10 @@ export interface Operations {
    */
   nbtGetDouble: (arg0: Record<string, any>, arg1: string) => number;
   integerXor: (arg0: number, arg1: number) => number;
+  /**
+   * The Tag values (blocks) of the given block tag name
+   */
+  stringBlocksByTag: (arg0: string) => any[];
   /**
    * Set the stacksize for the given item
    */
@@ -1093,6 +1135,10 @@ export interface ValueItemstack {
    */
   maxDamage: () => number;
   /**
+   * Get the tooltip of the given item as a list of strings.
+   */
+  tooltip: () => any[];
+  /**
    * The maximum stack size
    */
   maxSize: () => number;
@@ -1112,6 +1158,10 @@ export interface ValueItemstack {
    * If the NBT tags of the given items are equal
    */
   isNbtEqual: (arg0: ValueItemstack) => boolean;
+  /**
+   * Set the NBT tag of the given item.
+   */
+  itemWithTag: (arg0: Record<string, any>) => ValueItemstack;
   /**
    * If the given item is a plant
    */
@@ -1221,6 +1271,10 @@ export interface ValueBlock {
    * The plant type of the given block
    */
   plantType: () => string;
+  /**
+   * The Tag names (strings) of the given block
+   */
+  tags: () => any[];
   /**
    * The place sound of the given block
    */
@@ -1357,6 +1411,10 @@ export interface ValueFluidstack {
    */
   bucketFillSound: () => string;
   /**
+   * The Tag names (strings) of the given fluid
+   */
+  tags: () => any[];
+  /**
    * The filled bucket for the fluid
    */
   bucket: () => ValueItemstack;
@@ -1368,6 +1426,10 @@ export interface ValueFluidstack {
    * The fluid viscosity
    */
   viscosity: () => number;
+  /**
+   * Set the NBT tag of the given fluid.
+   */
+  fluidWithTag: (arg0: Record<string, any>) => ValueFluidstack;
   /**
    * The fluid temperature
    */
@@ -1401,6 +1463,10 @@ export interface ValueEntity {
    * Get the given entity as NBT.
    */
   nbt: () => Record<string, any>;
+  /**
+   * In the context of the given Player Entity, get the tooltip of the given item as a list of strings.
+   */
+  entityItemTooltip: (arg0: ValueItemstack) => any[];
   /**
    * The name of the mod owning the given entity
    */
