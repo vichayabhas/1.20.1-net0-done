@@ -4290,12 +4290,6 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
-    "criteria": {
-      "iron_ingot": "2025-05-18 10:13:28 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 10:13:28 +0700"
@@ -4746,39 +4740,15 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
-    "criteria": {
-      "glass": "2025-06-18 10:45:15 +0700"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-18 10:45:15 +0700"
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/red_shield_template_block": {
-    "criteria": {
-      "glass": "2025-06-18 10:45:15 +0700"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-06-18 10:45:15 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
-    "criteria": {
-      "glass": "2025-06-18 10:45:15 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/space_chamber_card": {
-    "criteria": {
-      "glass": "2025-06-18 10:45:15 +0700"
     },
     "done": true
   },
@@ -4791,12 +4761,6 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-06-18 10:45:15 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/yellow_shield_template_block": {
-    "criteria": {
-      "glass": "2025-06-18 10:45:15 +0700"
     },
     "done": true
   },
