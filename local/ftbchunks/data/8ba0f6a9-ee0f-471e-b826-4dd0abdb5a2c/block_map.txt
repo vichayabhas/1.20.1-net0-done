@@ -296,6 +296,7 @@
 #72D77D minecraft:lever
 #D4FF84 minecraft:light_blue_wool
 #5EA8D2 minecraft:lime_wool
+#28EAD0 integrateddynamics:logic_programmer
 #9DA81C mekanism:logistical_sorter
 #0BB0DD nuclearscience:logisticscablebase
 #739AF1 nuclearscience:logisticscontroller
@@ -589,6 +590,7 @@
 #E6D2DA gtceu:uv_scanner
 #5D6192 gtceu:uv_transformer_16a
 #B41AAB gtceu:vacuum_freezer
+#D1B65E integrateddynamics:variablestore
 #D5FF2C gtceu:vibration_safe_casing
 #23F867 gtceu:void_hazard_sign_block
 #6FED3F gtceu:watertight_casing
