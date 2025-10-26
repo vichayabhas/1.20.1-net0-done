@@ -5196,5 +5196,83 @@
     },
     "done": true
   },
+  "electrodynamics:root": {
+    "criteria": {
+      "HasCraftingTable": "2025-09-24 08:59:40 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-09-24 09:54:18 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2025-09-24 09:54:18 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2025-09-24 09:54:18 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2025-09-24 09:54:18 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2025-09-24 09:54:18 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:insulatedwiring": {
+    "criteria": {
+      "HasInsulatedCopperWire": "2025-09-24 09:56:19 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:batterybox": {
+    "criteria": {
+      "HasBatteryBox": "2025-09-24 09:56:37 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:coalgenerator": {
+    "criteria": {
+      "HasCoalGenerator": "2025-09-24 09:57:05 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-09-24 09:57:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-24 09:57:27 +0700"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-09-24 09:57:27 +0700"
+    },
+    "done": true
+  },
+  "electrodynamics:lithiumbatterybox": {
+    "criteria": {
+      "HasBatteryBox": "2025-09-24 10:32:19 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

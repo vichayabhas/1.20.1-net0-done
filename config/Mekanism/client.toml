@@ -110,8 +110,8 @@
 				y = 15
 
 			[client.gui.window.upgrade]
-				x = 10
-				y = 15
+				x = -75
+				y = 62
 
 	#QIO Config
 	[client.qio]

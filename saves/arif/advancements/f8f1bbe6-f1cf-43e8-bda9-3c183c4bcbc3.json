@@ -105,12 +105,6 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2023-12-15 11:38:26 +0700"
-    },
-    "done": true
-  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2023-12-15 11:38:26 +0700"
@@ -120,12 +114,6 @@
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2023-12-15 11:38:26 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/concealment_key": {
-    "criteria": {
-      "has_template": "2023-12-15 11:38:26 +0700"
     },
     "done": true
   },
@@ -971,22 +959,9 @@
     },
     "done": true
   },
-  "mekanismadditions:hurt_by_babies": {
-    "criteria": {
-      "baby_skeleton": "2023-12-15 11:49:34 +0700",
-      "baby_creeper": "2023-12-15 15:49:47 +0700"
-    },
-    "done": false
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2023-12-15 11:50:16 +0700"
-    },
-    "done": true
-  },
-  "mekanismadditions:not_the_babies": {
-    "criteria": {
-      "baby_skeleton": "2023-12-15 11:50:58 +0700"
     },
     "done": true
   },
@@ -1663,12 +1638,6 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2023-12-15 12:21:47 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2023-12-15 12:21:47 +0700"
@@ -1684,12 +1653,6 @@
   "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
     "criteria": {
       "ingot": "2023-12-15 12:21:47 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/copper_iron_chest": {
-    "criteria": {
-      "has_iron_ingot": "2023-12-15 12:21:47 +0700"
     },
     "done": true
   },
@@ -1765,12 +1728,6 @@
     },
     "done": true
   },
-  "embers:recipes/misc/iron_plate_hammering": {
-    "criteria": {
-      "has_ingot": "2023-12-15 12:21:47 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2023-12-15 12:21:47 +0700"
@@ -1780,12 +1737,6 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2023-12-15 12:21:47 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2023-12-15 12:21:47 +0700"
     },
     "done": true
   },
@@ -1801,12 +1752,6 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
-    "criteria": {
-      "has_iron_ingot": "2023-12-15 12:21:47 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2023-12-15 12:21:47 +0700"
@@ -1816,12 +1761,6 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2023-12-15 12:21:47 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
-    "criteria": {
-      "iron_ingot": "2023-12-15 12:21:47 +0700"
     },
     "done": true
   },
@@ -1969,12 +1908,6 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2023-12-15 12:21:47 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-12-15 12:21:47 +0700"
@@ -2113,12 +2046,6 @@
     },
     "done": true
   },
-  "embers:recipes/tools/atmospheric_gauge": {
-    "criteria": {
-      "has_redstone": "2023-12-15 12:22:18 +0700"
-    },
-    "done": true
-  },
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2023-12-15 12:22:18 +0700"
@@ -2134,12 +2061,6 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2023-12-15 12:22:18 +0700"
-    },
-    "done": true
-  },
-  "computercraft:recipes/redstone/computer_normal": {
-    "criteria": {
-      "has_redstone": "2023-12-15 12:22:18 +0700"
     },
     "done": true
   },
@@ -2389,12 +2310,6 @@
     },
     "done": true
   },
-  "embers:recipes/misc/lead_raw_to_raw_block": {
-    "criteria": {
-      "has_raw": "2023-12-15 12:56:46 +0700"
-    },
-    "done": true
-  },
   "mekanism:materials": {
     "criteria": {
       "material": "2023-12-15 13:01:44 +0700"
@@ -2584,12 +2499,6 @@
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2023-12-15 13:09:18 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/stamp_base": {
-    "criteria": {
-      "has_bucket": "2023-12-15 15:41:06 +0700"
     },
     "done": true
   },
@@ -2803,145 +2712,13 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/search_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/coordinate_tracker_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/volume_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/item_life_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/flippers_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/dispenser_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/inventory_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/standby_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/speed_upgrade_from_glycerol": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/stomp_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/ender_visor_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/range_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/gilded_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/armor_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/speed_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/charging_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/security_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/minigun_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/entity_tracker_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/elytra_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-12-15 16:11:48 +0700"
     },
@@ -2983,21 +2760,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
-    "criteria": {
-      "has_copper_ingot": "2023-12-15 16:28:31 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2023-12-15 16:28:31 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/copper_plate_hammering": {
-    "criteria": {
-      "has_ingot": "2023-12-15 16:28:31 +0700"
     },
     "done": true
   },
@@ -3061,27 +2826,9 @@
     },
     "done": true
   },
-  "embers:recipes/misc/copper_ingot_to_nugget": {
-    "criteria": {
-      "has_ingot": "2023-12-15 16:28:31 +0700"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2023-12-15 16:28:31 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/copper_nugget": {
-    "criteria": {
-      "has_copper_ingot": "2023-12-15 16:28:31 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
-    "criteria": {
-      "has_copper_ingot": "2023-12-15 16:28:31 +0700"
     },
     "done": true
   },
@@ -3094,12 +2841,6 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2023-12-15 16:28:31 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
-    "criteria": {
-      "has_copper_ingot": "2023-12-15 16:28:31 +0700"
     },
     "done": true
   },
@@ -3343,18 +3084,6 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
-    "criteria": {
-      "glass": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
-    "criteria": {
-      "has_glass": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-15 17:03:24 +0700"
@@ -3376,12 +3105,6 @@
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
-    "criteria": {
-      "has_glass": "2023-12-15 17:03:24 +0700"
     },
     "done": true
   },
@@ -3409,24 +3132,6 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/red_shield_template_block": {
-    "criteria": {
-      "glass": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
-    "criteria": {
-      "has_glass": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
-    "criteria": {
-      "glass": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-12-15 17:03:24 +0700"
@@ -3448,12 +3153,6 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/space_chamber_card": {
-    "criteria": {
-      "glass": "2023-12-15 17:03:24 +0700"
     },
     "done": true
   },
@@ -3487,12 +3186,6 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
-    "criteria": {
-      "has_glass": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2023-12-15 17:03:24 +0700"
@@ -3502,12 +3195,6 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2023-12-15 17:03:24 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/yellow_shield_template_block": {
-    "criteria": {
-      "glass": "2023-12-15 17:03:24 +0700"
     },
     "done": true
   },
@@ -3622,12 +3309,6 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2023-12-18 09:28:57 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
-    "criteria": {
-      "has_diamonds": "2023-12-18 09:28:57 +0700"
     },
     "done": true
   },
@@ -3787,12 +3468,6 @@
     },
     "done": true
   },
-  "embers:recipes/building_blocks/archaic_bricks": {
-    "criteria": {
-      "has_brick": "2023-12-18 09:42:12 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2023-12-18 10:01:59 +0700"
@@ -3802,12 +3477,6 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2023-12-18 10:01:59 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/caminite_blend": {
-    "criteria": {
-      "has_clay": "2023-12-18 10:01:59 +0700"
     },
     "done": true
   },
@@ -3853,19 +3522,7 @@
     },
     "done": true
   },
-  "computercraft:recipes/redstone/computer_advanced": {
-    "criteria": {
-      "has_components": "2023-12-18 10:02:45 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2023-12-18 10:02:45 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2023-12-18 10:02:45 +0700"
     },
@@ -4075,12 +3732,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
-    "criteria": {
-      "has_dye": "2023-12-18 10:35:13 +0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_smart_blue": {
     "criteria": {
       "has_dyes/black": "2023-12-18 10:35:13 +0700"
@@ -4123,12 +3774,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
-    "criteria": {
-      "has_dye": "2023-12-18 10:35:13 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2023-12-18 10:35:13 +0700"
@@ -4141,12 +3786,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
-    "criteria": {
-      "has_dye": "2023-12-18 10:35:13 +0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2023-12-18 10:35:13 +0700"
@@ -4156,18 +3795,6 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2023-12-18 10:35:13 +0700"
-    },
-    "done": true
-  },
-  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
-    "criteria": {
-      "has_dye": "2023-12-18 10:35:13 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover_control_back": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
     },
     "done": true
   },
@@ -4201,12 +3828,6 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover_controller": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
   "rftoolsutility:recipes/rftoolsutility/matter_receiver": {
     "criteria": {
       "frame": "2023-12-18 10:35:29 +0700"
@@ -4237,12 +3858,6 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover_status": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
   "rftoolscontrol:recipes/rftoolscontrol/workbench": {
     "criteria": {
       "frame": "2023-12-18 10:35:29 +0700"
@@ -4252,12 +3867,6 @@
   "rftoolsutility:recipes/rftoolsutility/tank": {
     "criteria": {
       "frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/space_chamber": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
     },
     "done": true
   },
@@ -4273,39 +3882,9 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover_control4": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover_control3": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover_control2": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
   "xnet:recipes/xnet/controller": {
     "criteria": {
       "frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover_control": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/space_chamber_controller": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
     },
     "done": true
   },
@@ -4322,12 +3901,6 @@
     "done": true
   },
   "rftoolsutility:recipes/rftoolsutility/syringe": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_builder": {
     "criteria": {
       "machine_frame": "2023-12-18 10:35:29 +0700"
     },
@@ -4351,12 +3924,6 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/builder": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
   "rftoolsutility:recipes/rftoolsutility/screen_controller": {
     "criteria": {
       "frame": "2023-12-18 10:35:29 +0700"
@@ -4375,39 +3942,9 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/mover": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
   "rftoolspower:recipes/rftoolspower/blazing_agitator": {
     "criteria": {
       "frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shield_block4": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shield_block1": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shield_block2": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shield_block3": {
-    "criteria": {
-      "machine_frame": "2023-12-18 10:35:29 +0700"
     },
     "done": true
   },
@@ -5089,12 +4626,6 @@
     },
     "done": true
   },
-  "embers:recipes/misc/silver_raw_to_raw_block": {
-    "criteria": {
-      "has_raw": "2023-12-21 09:59:12 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2023-12-21 10:12:33 +0700"
@@ -5185,12 +4716,6 @@
     },
     "done": true
   },
-  "embers:recipes/misc/stamper": {
-    "criteria": {
-      "has_iron_block": "2023-12-21 10:21:09 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2023-12-21 10:21:09 +0700"
@@ -5200,18 +4725,6 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2023-12-21 10:23:06 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_card": {
-    "criteria": {
-      "paper": "2023-12-21 10:23:17 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
-    "criteria": {
-      "has_paper": "2023-12-21 10:23:17 +0700"
     },
     "done": true
   },
@@ -5251,18 +4764,6 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_status_module": {
-    "criteria": {
-      "paper": "2023-12-21 10:23:17 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_control_module": {
-    "criteria": {
-      "paper": "2023-12-21 10:23:17 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2023-12-21 10:23:17 +0700"
@@ -5272,96 +4773,6 @@
   "rftoolspower:recipes/rftoolspower/powercell_card": {
     "criteria": {
       "paper": "2023-12-21 10:23:51 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_void": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_pump": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_dirt": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_clear": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_silk_dirt": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_clear_fortune": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_pump_clear": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_fortune_dirt": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_silk": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_clear_silk": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_pump_dirt": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_quarry_fortune": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_liquid": {
-    "criteria": {
-      "shape_card": "2023-12-21 10:23:56 +0700"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
-    "criteria": {
-      "has_obsidian": "2023-12-21 10:29:21 +0700"
     },
     "done": true
   },
@@ -5380,12 +4791,6 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2023-12-21 10:29:21 +0700"
-    },
-    "done": true
-  },
-  "colossalchests:root": {
-    "criteria": {
-      "criteria_0": "2023-12-21 10:35:27 +0700"
     },
     "done": true
   },
@@ -5653,21 +5058,9 @@
     },
     "done": true
   },
-  "embers:recipes/redstone/sticky_piston_adhesive": {
-    "criteria": {
-      "has_slime": "2023-12-21 11:57:19 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2023-12-21 11:57:19 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/tools/lead_adhesive": {
-    "criteria": {
-      "has_slime": "2023-12-21 11:57:19 +0700"
     },
     "done": true
   },
@@ -5734,12 +5127,6 @@
   "create:recipes/misc/crafting/materials/raw_zinc": {
     "criteria": {
       "has_item": "2023-12-25 16:11:01 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/silver_raw_block_to_raw": {
-    "criteria": {
-      "has_block": "2023-12-25 16:11:07 +0700"
     },
     "done": true
   },
@@ -6460,33 +5847,9 @@
     },
     "done": true
   },
-  "embers:recipes/building_blocks/sealed_wood": {
-    "criteria": {
-      "has_slime": "2024-03-06 09:17:25 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/ember_activator": {
-    "criteria": {
-      "has_iron_plate": "2024-03-06 09:34:08 +0700"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2024-03-06 09:34:08 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/fluid_dial": {
-    "criteria": {
-      "has_iron_plate": "2024-03-06 09:34:08 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/mini_boiler": {
-    "criteria": {
-      "has_iron_plate": "2024-03-06 09:34:08 +0700"
     },
     "done": true
   },
@@ -6505,18 +5868,6 @@
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2024-03-06 09:34:08 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/ember_relay": {
-    "criteria": {
-      "has_iron_plate": "2024-03-06 09:34:08 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/fluid_pipe": {
-    "criteria": {
-      "has_iron_plate": "2024-03-06 09:34:08 +0700"
     },
     "done": true
   },
@@ -6595,30 +5946,6 @@
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2024-03-06 10:11:15 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/lead_ingot_from_blasting_raw_lead": {
-    "criteria": {
-      "has_raw_lead": "2024-03-06 10:19:05 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/lead_ingot_from_smelting_raw_lead": {
-    "criteria": {
-      "has_raw_lead": "2024-03-06 10:19:05 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-03-06 10:19:37 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-03-06 10:19:37 +0700"
     },
     "done": true
   },
@@ -6886,24 +6213,6 @@
     },
     "done": true
   },
-  "embers:recipes/misc/lead_raw_block_to_raw": {
-    "criteria": {
-      "has_block": "2024-03-07 10:35:20 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/ancient_codex": {
-    "criteria": {
-      "has_core": "2024-03-07 10:37:44 +0700"
-    },
-    "done": true
-  },
-  "embers:recipes/misc/archaic_circuit": {
-    "criteria": {
-      "has_archaic_brick": "2024-03-07 10:37:44 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-03-07 11:08:01 +0700"
@@ -7072,48 +6381,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
-    "criteria": {
-      "has_logistics_core": "2024-03-07 13:59:34 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
-    "criteria": {
-      "has_logistics_core": "2024-03-07 13:59:34 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
-    "criteria": {
-      "has_logistics_core": "2024-03-07 13:59:34 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/classify_filter": {
-    "criteria": {
-      "has_logistics_core": "2024-03-07 13:59:34 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_module": {
-    "criteria": {
-      "has_logistics_core": "2024-03-07 13:59:34 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
-    "criteria": {
-      "has_logistics_core": "2024-03-07 13:59:34 +0700"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_passive_provider": {
-    "criteria": {
-      "has_logistics_core": "2024-03-07 13:59:34 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-03-07 13:59:51 +0700"
@@ -7159,6 +6426,366 @@
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2024-07-19 09:44:15 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/lavium_block": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/blazum_ingot": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/stonecutting/sheet_metal_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/priority_key": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "travelanchors:recipes/misc/travel_staff": {
+    "criteria": {
+      "criterion0": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/iglium_upgrade_smithing_template": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/shape_card_def": {
+    "criteria": {
+      "iron_ingot": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/modium_block": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/lavium_ingot": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/derium_ingot": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "travelanchors:recipes/misc/travel_anchor": {
+    "criteria": {
+      "criterion1": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "voltaic:dispenseguidebook": {
+    "criteria": {
+      "SpawnIn": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/modium_ingot": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/blazum_block": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:main/root": {
+    "criteria": {
+      "craftingtable": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "igleelib:recipes/igleelib/derium_block": {
+    "criteria": {
+      "unlock": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_framework": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/sheet_metal_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/brick": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/bread_block": {
+    "criteria": {
+      "has_wheat": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-10-14 12:04:44 +0700"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:10:35 +0700"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-10-14 12:10:35 +0700"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-10-14 12:22:22 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/standing_rake": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:22:22 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/standing_broomstick": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:22:22 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/warping/craterstone_from_cobblestone_warping": {
+    "criteria": {
+      "has_cobblestone": "2025-10-14 12:22:50 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:22:50 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:22:50 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:22:50 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:22:50 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-10-14 12:22:50 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-16 13:00:51 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-16 13:00:51 +0700"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-10-16 13:00:47 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-10-16 13:00:34 +0700"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-10-16 13:00:34 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-10-16 13:00:47 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-16 13:00:51 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-10-16 13:00:47 +0700"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2025-10-16 13:02:21 +0700"
     },
     "done": true
   },

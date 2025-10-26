@@ -14,6 +14,8 @@
 #138449 mekanism:advanced_universal_cable
 #8748FF electrodynamics:advancedupgradetransformer
 #52B53D minecraft:air
+#0BEA6F gtceu:aluminium_normal_fluid_pipe
+#65D103 gtceu:aluminium_quadruple_fluid_pipe
 #431936 gtceu:aluminium_tiny_fluid_pipe
 #7E2471 gtceu:americium_huge_item_pipe
 #17F1FF create:analog_lever
@@ -132,7 +134,9 @@
 #ABE8E5 electrodynamics:electricpump
 #006086 gtceu:electrolytic_cell
 #9C5F98 mekanism:electrolytic_separator
+#8263A0 gtceu:electrum_normal_item_pipe
 #CFB4F8 gtceu:electrum_small_item_pipe
+#D6B568 mekanism:elite_chemical_tank
 #61C3E9 mekanism:elite_induction_cell
 #187B78 mekanism:elite_induction_provider
 #BABE2B mekanism:elite_logistical_transporter
@@ -140,6 +144,7 @@
 #09F503 mekanism:elite_smelting_factory
 #FFB97A mcwfences:end_brick_pillar_wall
 #0691F4 ae2:energy_acceptor
+#2EB4E9 gtceu:enriched_naquadah_trinium_europium_duranide_hex_wire
 #7A7B39 gtceu:enriched_naquadah_trinium_europium_duranide_octal_wire
 #66AA25 gtceu:enriched_naquadah_trinium_europium_duranide_quadruple_wire
 #DB8F90 gtceu:enriched_naquadah_trinium_europium_duranide_single_wire
@@ -147,6 +152,7 @@
 #8CFAAE gtceu:ev_battery_buffer_16x
 #E28FDD gtceu:ev_battery_buffer_4x
 #E29059 gtceu:ev_battery_buffer_8x
+#092793 gtceu:ev_canner
 #1955F7 gtceu:ev_diode
 #F0EF1C gtceu:ev_energy_input_hatch
 #B311E4 gtceu:ev_energy_input_hatch_4a
@@ -183,6 +189,7 @@
 #6E1E24 framedblocks:framed_one_way_window
 #87C115 framedblocks:framed_slab_corner
 #5B6DB5 framedblocks:framed_stairs
+#453DA7 nuclearscience:freezeplug
 #C89997 gtceu:frost_hazard_sign_block
 #42D87E gtceu:frostproof_machine_casing
 #EF2902 gtceu:fusion_casing
@@ -217,6 +224,7 @@
 #4ABA6A gtceu:high_temperature_hazard_sign_block
 #97F354 gtceu:high_voltage_hazard_sign_block
 #1A0827 minecraft:hopper
+#F0E954 gtceu:hp_steam_liquid_boiler
 #A89C9B gtceu:hpca_advanced_computation_component
 #274AA1 gtceu:hpca_heat_sink_component
 #2C2269 gtceu:hssg_double_cable
@@ -263,6 +271,7 @@
 #528D20 gtceu:iv_1a_energy_converter
 #7323DF gtceu:iv_256a_laser_target_hatch
 #69E959 gtceu:iv_battery_buffer_4x
+#1AE397 gtceu:iv_canner
 #4A25C1 gtceu:iv_chemical_reactor
 #9E0973 gtceu:iv_diode
 #52E3BA gtceu:iv_electrolyzer
@@ -296,12 +305,15 @@
 #72D77D minecraft:lever
 #D4FF84 minecraft:light_blue_wool
 #5EA8D2 minecraft:lime_wool
+#D766EE electrodynamics:lithiumbatterybox
 #28EAD0 integrateddynamics:logic_programmer
 #9DA81C mekanism:logistical_sorter
 #0BB0DD nuclearscience:logisticscablebase
 #739AF1 nuclearscience:logisticscontroller
 #C64EB8 gtceu:long_distance_fluid_pipeline
 #ACD6F0 gtceu:long_distance_fluid_pipeline_endpoint
+#154095 gtceu:lp_steam_solid_boiler
+#F1AD18 gtceu:luv_16a_energy_converter
 #83F400 gtceu:luv_1a_energy_converter
 #2CA047 gtceu:luv_8a_energy_converter
 #870DD2 gtceu:luv_battery_buffer_16x
@@ -374,11 +386,15 @@
 #DBCA5E electrodynamics:mineralcrusher
 #BF72E4 gtceu:mob_infestation_hazard_sign_block
 #5BA6BC gtceu:mob_spawner_hazard_sign_block
+#E636BF nuclearscience:moltensaltpipevanadiumsteelceramic
+#C03D77 nuclearscience:moltensaltsupplier
 #951148 nuclearscience:monitormodule
 #A4FC4B minecraft:mossy_cobblestone
 #2CE413 dynamicelectricity:motorachv
 #2CE4AE dynamicelectricity:motoracmv
+#2E41CB dynamicelectricity:motordcmv
 #38AE7D minecraft:moving_piston
+#8639DD nuclearscience:msreactorcore
 #09BD60 cb_multipart:multipart
 #28CAA5 gtceu:mv_air_scrubber
 #54A6B6 gtceu:mv_battery_buffer_16x
@@ -446,6 +462,7 @@
 #CDF044 gtceu:platinum_quadruple_cable
 #222533 gtceu:platinum_single_cable
 #547E89 gtceu:platinum_small_item_pipe
+#040D27 gtceu:polybenzimidazole_quadruple_fluid_pipe
 #AFAC0D minecraft:poppy
 #399C19 gtceu:powderbarrel
 #111BD4 mekanism:pressure_disperser
@@ -526,6 +543,7 @@
 #C5F7D8 mekanism:thermal_evaporation_valve
 #4E48D4 nuclearscience:thermometermodule
 #7D0880 rftoolsutility:timer
+#0CD562 gtceu:tin_normal_item_pipe
 #2F02F6 gtceu:tin_small_item_pipe
 #2F5CAD ae2:tiny_tnt
 #6B4DEA gtceu:titanium_drum
@@ -574,6 +592,7 @@
 #DFD9FD gtceu:uranium_triplatinum_double_wire
 #404E0F gtceu:uranium_triplatinum_quadruple_wire
 #1483E6 gtceu:uranium_triplatinum_single_wire
+#496704 gtceu:uv_16a_energy_converter
 #1C52BE gtceu:uv_battery_buffer_16x
 #FFF5CD gtceu:uv_battery_buffer_4x
 #F1C924 gtceu:uv_centrifuge
@@ -598,6 +617,7 @@
 #B7775E minecraft:white_bed
 #BC20FE minecraft:white_wool
 #4C2A93 electrodynamics:wirehighlyinsulatedsuperconductiveblack
+#F4B974 electrodynamics:wireinsulatedcopperblack
 #D78322 electrodynamics:wireinsulatedsuperconductiveblack
 #BC1171 electrodynamics:wireinsulatedsuperconductiveyellow
 #541F28 ae2:wireless_access_point
@@ -615,3 +635,4 @@
 #E92F44 gtceu:zpm_output_hatch
 #741D43 gtceu:zpm_substation_output_hatch_64a
 #4F7CF8 gtceu:zpm_transformer_1a
+#4F7D17 gtceu:zpm_transformer_2a
