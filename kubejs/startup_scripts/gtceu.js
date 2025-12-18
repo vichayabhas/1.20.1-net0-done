@@ -3,7 +3,7 @@ GTCEuStartupEvents.registry("gtceu:recipe_type", (event) => {
         .create("generator")
         .category("test")
         .setEUIO("out")
-        .setMaxIOSize(2, 0, 0, 0)
+        .setMaxIOSize(2, 1, 1, 0)
         .setSlotOverlay(false, false, GuiTextures.SOLIDIFIER_OVERLAY)
         .setProgressBar(GuiTextures.PROGRESS_BAR_ARROW, FillDirection.LEFT_TO_RIGHT)
         .setSound(GTSoundEntries.COOLING);

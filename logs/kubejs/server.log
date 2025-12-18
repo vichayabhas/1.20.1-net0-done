@@ -1,22 +1,22 @@
-[20:49:12] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[20:49:12] [INIT] Loaded plugins:
-[20:49:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:49:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[20:49:12] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[20:49:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[20:49:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[20:49:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[20:49:12] [INIT] - com.probejs.ProbeJSPlugin
-[20:49:12] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[20:49:12] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[20:49:12] [INFO] Loaded script server_scripts:example.js in 0.01 s
-[20:49:12] [INFO] Loaded 1/1 KubeJS server scripts in 0.027 s with 0 errors and 0 warnings
-[20:49:12] [INFO] Scripts loaded
-[20:49:12] [INFO] Initializing recipe event...
-[20:49:17] [INFO] Processing recipes...
-[20:49:18] [INFO] Found 50282 recipes in 1.186 s
-[20:49:18] [INFO] Posted recipe events in 105.7 ms
-[20:49:18] [WARN] Error parsing recipe gtceu:shapeless/centrifuged_ore_to_dust_neutronium[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:tools/hammers"},[]],"result":{"item":"gtceu:neutronium_mixture_dust"}}: Item array cannot be empty, at least one item must be defined
-[20:49:19] [WARN] Error parsing recipe gtceu:large_chemical_reactor/test13[gtceu:large_chemical_reactor]: {"type":"gtceu:large_chemical_reactor","inputs":{"fluid":[{"content":{"amount":1000,"value":[{"fluid":"gtceu:osmium_tetroxide"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":6000,"value":[{"fluid":"gtceu:hydrochloric_acid"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"gtceu:osmium_dust"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}],"fluid":[{"content":{"amount":36000,"value":[{"fluid":"gtceu:chlorine"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":2000,"value":[{"fluid":"minecraft:water"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}: No key duration in MapLike[{"type":"gtceu:large_chemical_reactor","inputs":{"fluid":[{"content":{"amount":1000,"value":[{"fluid":"gtceu:osmium_tetroxide"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":6000,"value":[{"fluid":"gtceu:hydrochloric_acid"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"gtceu:osmium_dust"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}],"fluid":[{"content":{"amount":36000,"value":[{"fluid":"gtceu:chlorine"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":2000,"value":[{"fluid":"minecraft:water"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}]
-[20:49:20] [INFO] Added 25 recipes, removed 62 recipes, modified 3 recipes, with 2 failed recipes in 2.583 s
-[20:49:22] [INFO] Server resource reload complete!
+[11:54:51] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[11:54:51] [INIT] Loaded plugins:
+[11:54:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[11:54:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[11:54:51] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[11:54:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[11:54:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[11:54:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[11:54:51] [INIT] - com.probejs.ProbeJSPlugin
+[11:54:51] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[11:54:51] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[11:54:51] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[11:54:51] [INFO] Loaded 1/1 KubeJS server scripts in 0.005 s with 0 errors and 0 warnings
+[11:54:51] [INFO] Scripts loaded
+[11:54:51] [INFO] Initializing recipe event...
+[11:54:52] [INFO] Processing recipes...
+[11:54:53] [INFO] Found 50282 recipes in 504.5 ms
+[11:54:53] [INFO] Posted recipe events in 15.81 ms
+[11:54:53] [WARN] Error parsing recipe gtceu:shapeless/centrifuged_ore_to_dust_neutronium[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:tools/hammers"},[]],"result":{"item":"gtceu:neutronium_mixture_dust"}}: Item array cannot be empty, at least one item must be defined
+[11:54:53] [WARN] Error parsing recipe gtceu:large_chemical_reactor/test13[gtceu:large_chemical_reactor]: {"type":"gtceu:large_chemical_reactor","inputs":{"fluid":[{"content":{"amount":1000,"value":[{"fluid":"gtceu:osmium_tetroxide"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":6000,"value":[{"fluid":"gtceu:hydrochloric_acid"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"fluid":[{"content":{"amount":36000,"value":[{"fluid":"gtceu:chlorine"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":2000,"value":[{"fluid":"minecraft:water"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}],"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"gtceu:osmium_dust"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}: No key duration in MapLike[{"type":"gtceu:large_chemical_reactor","inputs":{"fluid":[{"content":{"amount":1000,"value":[{"fluid":"gtceu:osmium_tetroxide"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":6000,"value":[{"fluid":"gtceu:hydrochloric_acid"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"fluid":[{"content":{"amount":36000,"value":[{"fluid":"gtceu:chlorine"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"amount":2000,"value":[{"fluid":"minecraft:water"}]},"chance":10000,"maxChance":10000,"tierChanceBoost":0}],"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"gtceu:osmium_dust"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}]
+[11:54:53] [INFO] Added 26 recipes, removed 62 recipes, modified 3 recipes, with 2 failed recipes in 613.9 ms
+[11:54:54] [INFO] Server resource reload complete!

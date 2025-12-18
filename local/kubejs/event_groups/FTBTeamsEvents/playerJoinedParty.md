@@ -22,30 +22,21 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | getEntity |  |  | LivingEntity | ✘ |
 | getPrevTeam |  |  | KJSTeamWrapper | ✘ |
 | getCurrentTeam |  |  | KJSTeamWrapper | ✘ |
-| addGameStage | String |  | void | ✘ |
 | hasGameStage | String |  | boolean | ✘ |
 | removeGameStage | String |  | void | ✘ |
+| addGameStage | String |  | void | ✘ |
 | getPlayer |  |  | Player | ✘ |
 | getLevel |  |  | Level | ✘ |
 | getServer |  |  | MinecraftServer | ✘ |
-| cancel | Object |  | Object | ✘ |
-| cancel |  |  | Object | ✘ |
-| exit |  |  | Object | ✘ |
 | exit | Object |  | Object | ✘ |
+| exit |  |  | Object | ✘ |
 | success | Object |  | Object | ✘ |
 | success |  |  | Object | ✘ |
+| cancel |  |  | Object | ✘ |
+| cancel | Object |  | Object | ✘ |
 
 
 ### Documented members:
-
-- `void addGameStage(String var0)`
-
-  Parameters:
-  - var0: String
-
-```
-Adds the specified game stage to the player
-```
 
 - `boolean hasGameStage(String var0)`
 
@@ -65,29 +56,13 @@ Checks if the player has the specified game stage
 Removes the specified game stage from the player
 ```
 
-- `Object cancel(Object var0)`
+- `void addGameStage(String var0)`
 
   Parameters:
-  - var0: Object
+  - var0: String
 
 ```
-Cancels the event with the given exit value. Execution will be stopped **immediately**.
-
-`cancel` denotes a `false` outcome.
-```
-
-- `Object cancel()`
-```
-Cancels the event with default exit value. Execution will be stopped **immediately**.
-
-`cancel` denotes a `false` outcome.
-```
-
-- `Object exit()`
-```
-Stops the event with default exit value. Execution will be stopped **immediately**.
-
-`exit` denotes a `default` outcome.
+Adds the specified game stage to the player
 ```
 
 - `Object exit(Object var0)`
@@ -97,6 +72,13 @@ Stops the event with default exit value. Execution will be stopped **immediately
 
 ```
 Stops the event with the given exit value. Execution will be stopped **immediately**.
+
+`exit` denotes a `default` outcome.
+```
+
+- `Object exit()`
+```
+Stops the event with default exit value. Execution will be stopped **immediately**.
 
 `exit` denotes a `default` outcome.
 ```
@@ -117,6 +99,24 @@ Stops the event with the given exit value. Execution will be stopped **immediate
 Stops the event with default exit value. Execution will be stopped **immediately**.
 
 `success` denotes a `true` outcome.
+```
+
+- `Object cancel()`
+```
+Cancels the event with default exit value. Execution will be stopped **immediately**.
+
+`cancel` denotes a `false` outcome.
+```
+
+- `Object cancel(Object var0)`
+
+  Parameters:
+  - var0: Object
+
+```
+Cancels the event with the given exit value. Execution will be stopped **immediately**.
+
+`cancel` denotes a `false` outcome.
 ```
 
 

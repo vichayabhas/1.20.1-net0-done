@@ -20,51 +20,26 @@ Note: Even if no fields are listed above, some methods are still available as fi
 
 | Name | Parameters | Return type | Static? |
 | ---- | ---------- | ----------- | ------- |
-| groupSameItem | ResourceLocation, Component, ItemStack |  | void | ✘ |
-| groupFluidsIf | ResourceLocation, Component, Predicate<FluidStackJS> |  | void | ✘ |
-| groupItemsByTag | ResourceLocation, Component, ResourceLocation |  | void | ✘ |
-| groupFluidsByTag | ResourceLocation, Component, ResourceLocation |  | void | ✘ |
 | groupFluids | ResourceLocation, Component, FluidStackJS[] |  | void | ✘ |
+| groupItemsByTag | ResourceLocation, Component, ResourceLocation |  | void | ✘ |
+| groupSameItem | ResourceLocation, Component, ItemStack |  | void | ✘ |
+| groupEntriesIf | ResourceLocation, Component, ResourceLocation, Predicate |  | void | ✘ |
+| groupAnyIf | ResourceLocation, Component, Predicate<EntryStack<?>> |  | void | ✘ |
+| groupItemsIf | ResourceLocation, Component, Predicate<ItemStack> |  | void | ✘ |
+| groupFluidsByTag | ResourceLocation, Component, ResourceLocation |  | void | ✘ |
+| groupFluidsIf | ResourceLocation, Component, Predicate<FluidStackJS> |  | void | ✘ |
 | groupSameFluid | ResourceLocation, Component, FluidStackJS |  | void | ✘ |
 | groupItems | ResourceLocation, Component, Ingredient |  | void | ✘ |
-| groupItemsIf | ResourceLocation, Component, Predicate<ItemStack> |  | void | ✘ |
-| groupAnyIf | ResourceLocation, Component, Predicate<EntryStack<?>> |  | void | ✘ |
-| groupEntriesIf | ResourceLocation, Component, ResourceLocation, Predicate |  | void | ✘ |
 | groupEntries | ResourceLocation, Component, ResourceLocation, Object |  | void | ✘ |
-| cancel | Object |  | Object | ✘ |
-| cancel |  |  | Object | ✘ |
-| exit |  |  | Object | ✘ |
 | exit | Object |  | Object | ✘ |
+| exit |  |  | Object | ✘ |
 | success | Object |  | Object | ✘ |
 | success |  |  | Object | ✘ |
+| cancel |  |  | Object | ✘ |
+| cancel | Object |  | Object | ✘ |
 
 
 ### Documented members:
-
-- `Object cancel(Object var0)`
-
-  Parameters:
-  - var0: Object
-
-```
-Cancels the event with the given exit value. Execution will be stopped **immediately**.
-
-`cancel` denotes a `false` outcome.
-```
-
-- `Object cancel()`
-```
-Cancels the event with default exit value. Execution will be stopped **immediately**.
-
-`cancel` denotes a `false` outcome.
-```
-
-- `Object exit()`
-```
-Stops the event with default exit value. Execution will be stopped **immediately**.
-
-`exit` denotes a `default` outcome.
-```
 
 - `Object exit(Object var0)`
 
@@ -73,6 +48,13 @@ Stops the event with default exit value. Execution will be stopped **immediately
 
 ```
 Stops the event with the given exit value. Execution will be stopped **immediately**.
+
+`exit` denotes a `default` outcome.
+```
+
+- `Object exit()`
+```
+Stops the event with default exit value. Execution will be stopped **immediately**.
 
 `exit` denotes a `default` outcome.
 ```
@@ -93,6 +75,24 @@ Stops the event with the given exit value. Execution will be stopped **immediate
 Stops the event with default exit value. Execution will be stopped **immediately**.
 
 `success` denotes a `true` outcome.
+```
+
+- `Object cancel()`
+```
+Cancels the event with default exit value. Execution will be stopped **immediately**.
+
+`cancel` denotes a `false` outcome.
+```
+
+- `Object cancel(Object var0)`
+
+  Parameters:
+  - var0: Object
+
+```
+Cancels the event with the given exit value. Execution will be stopped **immediately**.
+
+`cancel` denotes a `false` outcome.
 ```
 
 
