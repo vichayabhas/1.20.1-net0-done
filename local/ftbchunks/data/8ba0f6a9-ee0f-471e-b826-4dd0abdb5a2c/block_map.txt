@@ -14,6 +14,7 @@
 #138449 mekanism:advanced_universal_cable
 #8748FF electrodynamics:advancedupgradetransformer
 #52B53D minecraft:air
+#64CF47 immersivetechnology:alternator
 #0BEA6F gtceu:aluminium_normal_fluid_pipe
 #65D103 gtceu:aluminium_quadruple_fluid_pipe
 #431936 gtceu:aluminium_tiny_fluid_pipe
@@ -51,6 +52,10 @@
 #73D2B3 minecraft:birch_planks
 #B152E8 minecraft:black_wool
 #C3053E gtceu:blue_alloy_quadruple_cable
+#9594BD minecraft:blue_concrete
+#571489 mcwroofs:blue_concrete_lower_roof
+#F7F3F5 mcwroofs:blue_concrete_top_roof
+#B0B486 mcwroofs:blue_concrete_upper_lower_roof
 #87B36D minecraft:blue_wool
 #24ECAC mekanism:boiler_casing
 #4976CB mekanism:boiler_valve
@@ -73,6 +78,7 @@
 #71D976 mekanism:chemical_washer
 #7C0317 electrodynamics:chemicalmixer
 #F522F4 minecraft:chest
+#33E5D1 colossalchests:chest_wall_diamond
 #CACC15 gtceu:clean_machine_casing
 #5C86C8 gtceu:cleaning_maintenance_hatch
 #69431E gtceu:cleanroom
@@ -84,6 +90,8 @@
 #FFB51F mcwbridges:cobblestone_bridge
 #3D8BFC minecraft:cobblestone_stairs
 #74DB3C minecraft:cobblestone_wall
+#A38246 immersiveengineering:coil_hv
+#B1DE05 colossalchests:colossal_chest_diamond
 #F888C9 minecraft:comparator
 #E2D601 minecraft:composter
 #A6D7E2 gtceu:computation_receiver_hatch
@@ -180,6 +188,7 @@
 #895315 mekanismgenerators:fission_reactor_port
 #0E7116 nuclearscience:fissioninterface
 #EF4B5E nuclearscience:fissionreactorcore
+#C40C8B immersiveengineering:fluid_pipe
 #EFF841 mekanism:formulaic_assemblicator
 #D9FD28 framedblocks:framed_double_slope
 #C67E6F framedblocks:framed_double_threeway_corner_pillar
@@ -187,7 +196,9 @@
 #A24C0E framedblocks:framed_floor_board
 #41BC38 framedblocks:framed_mini_cube
 #6E1E24 framedblocks:framed_one_way_window
+#A6EA95 framedblocks:framed_pillar
 #87C115 framedblocks:framed_slab_corner
+#EB86C6 framedblocks:framed_slope
 #5B6DB5 framedblocks:framed_stairs
 #453DA7 nuclearscience:freezeplug
 #C89997 gtceu:frost_hazard_sign_block
@@ -205,6 +216,7 @@
 #AC063E mekanismgenerators:gas_burning_generator
 #A814E7 nuclearscience:gascentrifuge
 #298F70 electrodynamics:gaspipeuninsulatedcopper
+#51185B immersiveengineering:generator
 #BF45EA gtceu:generic_hazard_sign_block
 #2F436F minecraft:glass
 #FEDD83 mcwbridges:glass_bridge
@@ -262,6 +274,7 @@
 #EAE85A minecraft:infested_stone_bricks
 #D7B7C0 expatternprovider:ingredient_buffer
 #23066B ae2:interface
+#EA35C2 colossalchests:interface_diamond
 #2E2249 minecraft:iron_block
 #4022B7 mcwbridges:iron_bridge
 #CDB23C mcwbridges:iron_bridge_pier
@@ -287,6 +300,7 @@
 #86C81E gtceu:iv_transformer_16a
 #457502 gtceu:iv_transformer_1a
 #457521 gtceu:iv_transformer_2a
+#45755F gtceu:iv_transformer_4a
 #81A8E2 minecraft:jungle_wood
 #975D1F gtceu:kanthal_coil_block
 #706606 gtceu:laminated_glass
@@ -304,6 +318,7 @@
 #4625DE gtceu:laser_hazard_sign_block
 #72D77D minecraft:lever
 #D4FF84 minecraft:light_blue_wool
+#19EEF2 immersiveengineering:light_engineering
 #5EA8D2 minecraft:lime_wool
 #D766EE electrodynamics:lithiumbatterybox
 #28EAD0 integrateddynamics:logic_programmer
@@ -338,6 +353,7 @@
 #BBB135 gtceu:lv_battery_buffer_16x
 #4F6C76 gtceu:lv_battery_buffer_4x
 #4F6CF2 gtceu:lv_battery_buffer_8x
+#496D0F gtceu:lv_buffer
 #E8309A gtceu:lv_canner
 #494B04 gtceu:lv_chemical_reactor
 #419010 gtceu:lv_diode
@@ -362,6 +378,7 @@
 #430F62 gtceu:lv_transformer_4a
 #D7DC40 gtceu:magic_hazard_sign_block
 #E3249F gtceu:magnesium_diboride_double_wire
+#BE7D41 gtceu:magnesium_diboride_octal_wire
 #4A682D gtceu:magnesium_diboride_quadruple_wire
 #17CE88 gtceu:magnesium_diboride_single_wire
 #846DFA gtceu:magnetite_indicator
@@ -381,6 +398,7 @@
 #456199 gtceu:me_stocking_input_hatch
 #E71E05 nuclearscience:meltedreactor
 #7BF754 gtceu:mercury_barium_calcium_cuprate_double_wire
+#15FFEC gtceu:mercury_barium_calcium_cuprate_octal_wire
 #7A9D58 gtceu:mercury_barium_calcium_cuprate_quadruple_wire
 #B0A13D gtceu:mercury_barium_calcium_cuprate_single_wire
 #DBCA5E electrodynamics:mineralcrusher
@@ -450,6 +468,7 @@
 #A396A7 gtceu:oilsands_indicator
 #DCB160 gtceu:olivine_indicator
 #4C4219 minecraft:orange_wool
+#4CDFCB gtceu:osmiridium_huge_item_pipe
 #F6678E minecraft:oxeye_daisy
 #DF9F67 electrodynamics:oxidationfurnace
 #3088BD electrodynamics:pipesteel
@@ -471,6 +490,7 @@
 #6F3B9C gtceu:ptfe_pipe_casing
 #057101 mekanism:quantum_entangloporter
 #A70271 gtnn:radiation_proof_machine_casing
+#5307D2 immersiveengineering:radiator
 #B10054 gtceu:radioactive_hazard_sign_block
 #46C364 gtceu:reaction_safe_mixing_casing
 #9FCD7C mekanismgenerators:reactor_glass
@@ -489,6 +509,7 @@
 #74006B mekanism:resistive_heater
 #5C0EF3 mcwbridges:rope_oak_bridge
 #879B54 mekanism:rotary_condensentrator
+#7B5F9D immersiveengineering:rs_engineering
 #10781F gtceu:rtm_alloy_coil_block
 #FC18D5 gtceu:ruthenium_trinium_americium_neutronate_double_wire
 #14007B gtceu:ruthenium_trinium_americium_neutronate_hex_wire
@@ -496,11 +517,15 @@
 #FEDDE0 gtceu:salt_indicator
 #166B8C gtceu:samarium_iron_arsenic_oxide_double_wire
 #368124 gtceu:samarium_iron_arsenic_oxide_hex_wire
+#751E20 gtceu:samarium_iron_arsenic_oxide_quadruple_wire
 #4B1575 gtceu:samarium_iron_arsenic_oxide_single_wire
 #86FC77 minecraft:sand
 #59693F mekanismgenerators:saturating_condenser
 #60B81F minecraft:scaffolding
 #5B6E65 gtceu:secure_maceration_casing
+#079D5C immersiveengineering:sheetmetal_steel
+#7552C1 immersiveengineering:slab_sheetmetal_steel
+#CB82F8 minecraft:smooth_stone_slab
 #7F6970 mekanism:solar_neutron_activator
 #80CB73 gtceu:solid_machine_casing
 #479613 gtceu:spatial_storage_hazard_sign_block
@@ -512,6 +537,8 @@
 #3AEBC1 gtceu:stainless_steel_gearbox
 #AADBFC gtceu:stainless_steel_huge_fluid_pipe
 #01BD80 gtceu:stainless_steel_normal_fluid_pipe
+#34CF67 immersiveindustry:steam_turbine
+#9A9CB9 immersivetechnology:steam_turbine
 #F8E608 nuclearscience:steamfunnel
 #E197A4 gtceu:steel_pipe_casing
 #053BA8 gtceu:steel_tiny_fluid_pipe
@@ -530,11 +557,14 @@
 #6E8993 mcwroofs:stone_bricks_top_roof
 #FECC24 mcwroofs:stone_bricks_upper_lower_roof
 #5AA646 rftoolsstorage:storage_scanner
+#72EC8F immersiveengineering:storage_steel
 #A88E8E minecraft:stripped_oak_wood
 #5E72B7 mekanism:structural_glass
 #CCB5AF gtceu:superconducting_coil
 #7823F1 mekanism:superheating_element
 #6B391D nuclearscience:supplymodule
+#4BB909 rftoolsbuilder:support_block
+#A17F39 immersivetechnology:technology_engineering
 #6A36D7 gtceu:tempered_glass
 #14CEA9 buildinggadgets2:template_manager
 #4F23E0 gtceu:test_generator
@@ -549,6 +579,7 @@
 #6B4DEA gtceu:titanium_drum
 #A3C30E gtceu:titanium_pipe_casing
 #52FD2D minecraft:tnt
+#738293 immersivetechnology:trash_item
 #CE2C78 gtceu:trinium_coil_block
 #FBFECE gtceu:tungsten_steel_crate
 #1B2AE6 gtceu:tungsten_steel_normal_fluid_pipe
@@ -583,6 +614,7 @@
 #F7003F gtceu:ulv_machine_hull
 #EF6730 gtceu:ulv_transformer_1a
 #EF674F gtceu:ulv_transformer_2a
+#D060C9 colossalchests:uncolossal_chest
 #E11220 architects_palette:unobtanium_block
 #C8E55D electrodynamics:upgradetransformer
 #142DE8 gtceu:uranium_rhodium_dinaquadide_hex_wire
@@ -609,6 +641,7 @@
 #E6D2DA gtceu:uv_scanner
 #5D6192 gtceu:uv_transformer_16a
 #B41AAB gtceu:vacuum_freezer
+#BD650E immersivetechnology:valve_load
 #D1B65E integrateddynamics:variablestore
 #D5FF2C gtceu:vibration_safe_casing
 #23F867 gtceu:void_hazard_sign_block

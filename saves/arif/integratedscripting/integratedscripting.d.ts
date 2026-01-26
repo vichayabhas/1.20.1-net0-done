@@ -685,6 +685,10 @@ export interface Operations {
    */
   blockPlaceSound: (arg0: ValueBlock) => string;
   /**
+   * Get the fluid corresponding to the given unique name.
+   */
+  stringFluidByName: (arg0: string) => ValueFluidstack;
+  /**
    * Get the NBT tag of the given fluid.
    */
   fluidstackNbt: (arg0: ValueFluidstack) => Record<string, any>;
@@ -782,7 +786,7 @@ export interface Operations {
    */
   longAsNbt: (arg0: number) => Record<string, any>;
   /**
-   * Get the item corresponding to the given unique name, add space+number for indicating the metadata.
+   * Get the item corresponding to the given unique name.
    */
   stringItemByName: (arg0: string) => ValueItemstack;
   /**
@@ -910,7 +914,7 @@ export interface Operations {
    */
   nbtAsIntList: (arg0: Record<string, any>) => any[];
   /**
-   * Get the block corresponding to the given unique name, add space+number for indicating the metadata.
+   * Get the block corresponding to the given unique name.
    */
   stringBlockByName: (arg0: string) => ValueBlock;
   /**

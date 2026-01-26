@@ -64,6 +64,9 @@
     "energy": true,
     "tooltip_renderer": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "gtceu": {
     "primitive_pump": true,
     "auto_output_info": true,
@@ -93,9 +96,8 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "expatternprovider": {
-    "jade_chamber": true,
-    "jade_wireless": true
+  "balm": {
+    "jade": true
   },
   "integrateddynamicscompat": {
     "proxy": true,
@@ -104,6 +106,9 @@
     "drying_basin": true,
     "part": true,
     "squeezer": true
+  },
+  "immersivetechnology": {
+    "display": true
   },
   "ae2": {
     "part_icon": true,
