@@ -627,6 +627,7 @@
 #496704 gtceu:uv_16a_energy_converter
 #1C52BE gtceu:uv_battery_buffer_16x
 #FFF5CD gtceu:uv_battery_buffer_4x
+#5017A3 gtceu:uv_canner
 #F1C924 gtceu:uv_centrifuge
 #46BACD gtceu:uv_chemical_reactor
 #2C23E7 gtceu:uv_diode
