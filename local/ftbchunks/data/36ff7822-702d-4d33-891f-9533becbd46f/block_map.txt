@@ -11,6 +11,7 @@
 #F03BD3 gtceu:basaltic_mineral_sand_indicator
 #926C26 gtceu:basaltic_mineral_sand_ore
 #745C0D mekanism:basic_fluid_tank
+#23344A mekanism:basic_mechanical_pipe
 #6066C1 mekanism:basic_pressurized_tube
 #1D5855 mekanism:basic_universal_cable
 #3DE8FE minecraft:birch_leaves
@@ -50,11 +51,13 @@
 #80497A minecraft:dirt
 #3B0AD1 minecraft:dripstone_block
 #15EACA integrateddynamics:drying_basin
+#54BD67 mekanism:electric_pump
 #9C5F98 mekanism:electrolytic_separator
 #063FFF mekanism:energized_smelter
 #82545F mekanism:enrichment_chamber
 #009B14 minecraft:farmland
 #4A541F gtceu:fullers_earth_ore
+#2DC94B minecraft:furnace
 #380250 gtceu:galena_indicator
 #0C3C48 gtceu:garnet_sand_indicator
 #1827B7 gtceu:garnierite_ore
@@ -125,6 +128,7 @@
 #25660E gtceu:red_granite
 #4A5246 minecraft:red_terracotta
 #8A827E gtceu:redstone_indicator
+#74006B mekanism:resistive_heater
 #9C3ECB minecraft:rose_bush
 #879B54 mekanism:rotary_condensentrator
 #45DA85 gtceu:rubber_leaves
@@ -143,11 +147,15 @@
 #B21185 minecraft:stone_brick_slab
 #43D995 minecraft:stone_brick_stairs
 #AB5BC7 minecraft:stone_slab
+#5E72B7 mekanism:structural_glass
 #5CF3F1 minecraft:sugar_cane
 #0EAA1C minecraft:suspicious_gravel
 #329213 minecraft:sweet_berry_bush
 #ACC8AE gtceu:talc_indicator
 #847941 gtceu:talc_ore
+#B12AD5 mekanism:thermal_evaporation_block
+#D5426E mekanism:thermal_evaporation_controller
+#C5F7D8 mekanism:thermal_evaporation_valve
 #B50B59 mekanism:tin_ore
 #40DE80 projectred_exploration:tin_ore
 #87BAF4 minecraft:tuff

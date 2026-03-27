@@ -155,7 +155,7 @@ ServerEvents.recipes(event => {
         .inputFluids(Fluid.of('gtceu:helium', 2500))
         .inputFluids(Fluid.of("gtceu:chlorine", 12000))
         .inputFluids(Fluid.of('gtceu:oxygen', 12000))
-        .duration(2400)
+        .duration(2500)
         .EUt(524288)
         // .stationResearch(b=>b.researchStack(Item.of('kubejs:used_sulfur_trioxide_token')).CWUt(720).EUt(524288))
     //["scannerResearch(java.util.function.UnaryOperator)"](b => b.researchStack(Item.of('minecraft:coal_block')).EUt(GTValues.VA[GTValues.IV]).duration(420)) //

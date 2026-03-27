@@ -136,6 +136,7 @@
 #E432BC ae2:drive
 #19A3C1 minecraft:dropper
 #A33E07 mekanism:dynamic_tank
+#894AAD mekanism:dynamic_valve
 #4576E9 gtceu:electric_blast_furnace
 #54BD67 mekanism:electric_pump
 #24A97B electrodynamics:electricfurnace
@@ -599,6 +600,8 @@
 #89573B gtceu:uhv_machine_hull
 #D2C55A gtceu:uhv_substation_input_hatch_64a
 #51DF8F gtceu:uhv_substation_output_hatch_64a
+#C9D136 mekanism:ultimate_bin
+#BE2EA6 mekanism:ultimate_chemical_tank
 #89C1BB mekanism:ultimate_energy_cube
 #89780A mekanism:ultimate_fluid_tank
 #69726B mekanism:ultimate_induction_cell
