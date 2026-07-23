@@ -21,6 +21,10 @@ export interface Operations {
    */
   fluidstackBucketFillSound: (arg0: ValueFluidstack) => string;
   /**
+   * Cast any Number to a Long
+   */
+  numberToLong: (arg0: number) => number;
+  /**
    * Apply the given operator on all elements of a list, resulting in a new list of mapped values.
    */
   operatorMap: (arg0: Function, arg1: any[]) => any[];
@@ -235,6 +239,10 @@ export interface Operations {
    */
   entityArmorInventory: (arg0: ValueEntity) => any[];
   /**
+   * Cast any Number to a Double
+   */
+  numberToDouble: (arg0: number) => number;
+  /**
    * Create a new operator that pipes the output from the first operator to the second operator.
    */
   operatorPipe: (arg0: Function, arg1: Function) => Function;
@@ -321,6 +329,10 @@ export interface Operations {
    * If the entity is wet
    */
   entityIsWet: (arg0: ValueEntity) => boolean;
+  /**
+   * Cast any Number to an Integer
+   */
+  numberToInteger: (arg0: number) => number;
   booleanOr: (arg0: boolean, arg1: boolean) => boolean;
   /**
    * A copy of the input value.

@@ -5759,5 +5759,451 @@
     },
     "done": true
   },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2026-03-28 23:05:01 +0700"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2026-03-28 23:05:20 +0700"
+    },
+    "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_dissolution_chamber": "2026-03-28 23:05:43 +0700",
+      "chemical_crystallizer": "2026-03-28 23:06:02 +0700",
+      "chemical_washer": "2026-03-28 23:06:42 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/stonecutting/sheet_metal_block_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-03-29 19:31:52 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-04-10 09:34:05 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/warping/nebulite_from_diorite_warping": {
+    "criteria": {
+      "has_diorite": "2026-04-10 09:34:05 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-04-10 09:34:05 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-10 09:34:05 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2026-04-10 09:34:05 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-10 09:34:05 +0700"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_wood": "2026-04-10 09:40:45 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/deepslate": {
+    "criteria": {
+      "has_planks": "2026-04-10 09:40:45 +0700"
+    },
+    "done": true
+  },
+  "integratedtunnels:interfaces/interface_item": {
+    "criteria": {
+      "criteria_0": "2026-04-10 10:12:31 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/cables_logic": {
+    "criteria": {
+      "criteria_0": "2026-04-10 11:14:27 +0700"
+    },
+    "done": true
+  },
+  "more_immersive_wires:recipes/id_coil": {
+    "criteria": {
+      "id_unlock": "2026-04-10 11:14:28 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/cat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
+    "criteria": {
+      "paper": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_3": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:29:57 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2026-04-10 11:34:03 +0700"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-04-10 11:34:03 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2026-04-10 11:34:08 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2026-04-10 11:34:08 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:02:26 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:02:26 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:02:26 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:02:26 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/warping/onyx_from_granite_warping": {
+    "criteria": {
+      "has_granite": "2026-04-10 12:02:26 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:02:26 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:04:38 +0700"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:04:38 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:04:38 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:04:38 +0700"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/warping/esoterrack_from_andesite_warping": {
+    "criteria": {
+      "has_andesite": "2026-04-10 12:04:38 +0700"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-04-10 12:04:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-05-08 11:19:22 +0700"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-05-08 11:19:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-05-08 11:19:22 +0700"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2026-05-08 11:41:10 +0700"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2026-05-08 12:51:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-05-08 12:51:46 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/light": {
+    "criteria": {
+      "has_item": "2026-05-08 12:52:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2026-05-08 12:52:41 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/fluorescent": {
+    "criteria": {
+      "has_item": "2026-05-08 12:52:41 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2026-05-08 12:52:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2026-05-08 12:52:41 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variables": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:33:28 +0700"
+    },
+    "done": true
+  },
+  "integratedscripting:root": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:33:29 +0700"
+    },
+    "done": true
+  },
+  "integratedcrafting:root": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:33:29 +0700"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:33:29 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variable_output": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:33:33 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variable_input": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:36:40 +0700"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/menril_glass": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:38:53 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:basic_network_components/value_displaying": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:39:21 +0700"
+    },
+    "done": true
+  },
+  "integratedterminals:root": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:39:22 +0700"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/craft_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:39:25 +0700"
+    },
+    "done": true
+  },
+  "colossalchests:base/wood": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:43:41 +0700"
+    },
+    "done": true
+  },
+  "mekanism:alloy_upgrading": {
+    "criteria": {
+      "upgrade": "2026-05-08 18:48:10 +0700"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2026-05-08 18:55:23 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

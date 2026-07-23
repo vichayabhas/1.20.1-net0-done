@@ -11,6 +11,7 @@
 #9A2989 mekanism:advanced_induction_provider
 #19603E mekanism:advanced_mechanical_pipe
 #2FB94D mekanism:advanced_pressurized_tube
+#AD9504 mekanism:advanced_thermodynamic_conductor
 #138449 mekanism:advanced_universal_cable
 #8748FF electrodynamics:advancedupgradetransformer
 #52B53D minecraft:air
@@ -32,6 +33,7 @@
 #43D1EF minecraft:bamboo_planks
 #566F03 mcwroofs:bamboo_planks_top_roof
 #189B99 minecraft:barrel
+#BF561C immersivetechnology:barrel_open
 #18D108 minecraft:basalt
 #F03BD3 gtceu:basaltic_mineral_sand_indicator
 #B81A93 mekanism:basic_bin
@@ -58,6 +60,9 @@
 #B0B486 mcwroofs:blue_concrete_upper_lower_roof
 #87B36D minecraft:blue_wool
 #24ECAC mekanism:boiler_casing
+#0627B7 immersivetechnology:boiler_liquid
+#3B29A2 immersivetechnology:boiler_solid
+#53B3E5 immersivetechnology:boiler_tank
 #4976CB mekanism:boiler_valve
 #FF7E00 gtceu:boss_hazard_sign_block
 #FFC34F mekanism:bounding_block
@@ -67,6 +72,7 @@
 #DA5887 rftoolsbuilder:builder
 #A00EB6 integrateddynamics:cable
 #208CB0 ae2:cable_bus
+#66FE33 immersiveengineering:capacitor_hv
 #956820 electrodynamics:carbynebatterybox
 #41258E gtceu:cassiterite_indicator
 #8692BA gtceu:causality_hazard_sign_block
@@ -98,11 +104,14 @@
 #35E5F4 gtceu:computation_transmitter_hatch
 #DA3E0B gtceu:computer_casing
 #AF39FA gtceu:computer_heat_vent
+#7C100D immersiveengineering:concrete
+#43C3F6 ballistix:condensive
 #7BC9DD mekanismgenerators:control_rod_assembly
 #2BFCCE ae2:controller
 #EC89B5 storagedrawers:controller
 #B89B38 nuclearscience:controlrodmodule
 #BB3ABC assemblyline:conveyorbelt
+#0F621C immersivetechnology:cooling_tower
 #F9D6E3 gtceu:copper_indicator
 #BE069D gtceu:copper_octal_cable
 #CC07F6 minecraft:cornflower
@@ -122,6 +131,7 @@
 #05EFD1 gtceu:cupronickel_coil_block
 #B2A2E1 minecraft:dandelion
 #372F28 mcwbridges:dark_oak_rope_bridge_stair
+#8FA45D ballistix:darkmatter
 #C7F894 gtceu:data_access_hatch
 #418F9F gtceu:data_receiver_hatch
 #E1B917 gtceu:data_transmitter_hatch
@@ -175,6 +185,7 @@
 #DDD70A gtceu:ev_output_bus
 #C3F8CA gtceu:ev_output_hatch
 #66818D gtceu:ev_output_hatch_4x
+#E856FD gtceu:ev_substation_output_hatch_64a
 #5D6BF6 gtceu:ev_super_tank
 #3F3FA2 gtceu:ev_transformer_16a
 #9DFCFE gtceu:ev_transformer_1a
@@ -230,6 +241,7 @@
 #6C1554 mcwroofs:gutter_middle_light_gray
 #656D96 gtceu:hastelloy_x_frame
 #7762B0 architects_palette:hazard_sign
+#367FF7 immersivetechnology:heat_creative
 #9D79AA gtceu:heatproof_machine_casing
 #F9DA2F gtceu:high_performance_computation_array
 #635C5E gtceu:high_power_casing
@@ -258,6 +270,7 @@
 #3BD212 gtceu:hv_mixer
 #66EA8D gtceu:hv_output_bus
 #56378D gtceu:hv_output_hatch
+#F4E5FF gtceu:hv_transformer_16a
 #9B9701 gtceu:hv_transformer_1a
 #9B9720 gtceu:hv_transformer_2a
 #9B975E gtceu:hv_transformer_4a
@@ -465,6 +478,7 @@
 #855CF4 minecraft:oak_trapdoor
 #46FB1F minecraft:oak_wall_sign
 #872B26 gtceu:object_holder
+#DC2901 ballistix:obsidian
 #4A5E4E minecraft:obsidian
 #A396A7 gtceu:oilsands_indicator
 #DCB160 gtceu:olivine_indicator
@@ -503,6 +517,7 @@
 #24BE64 minecraft:redstone_torch
 #5D17E5 minecraft:redstone_wall_torch
 #721B63 minecraft:redstone_wire
+#B165EF immersivetechnology:reinforced_coke_brick
 #21C665 buildinggadgets2:render_block
 #487B7B minecraft:repeater
 #03F70A gtceu:research_station
@@ -524,10 +539,15 @@
 #59693F mekanismgenerators:saturating_condenser
 #60B81F minecraft:scaffolding
 #5B6E65 gtceu:secure_maceration_casing
+#8B3F27 immersiveengineering:sheetmetal_iron
+#F1C3AC immersiveengineering:sheetmetal_silver
 #079D5C immersiveengineering:sheetmetal_steel
 #7552C1 immersiveengineering:slab_sheetmetal_steel
+#BE2411 immersiveengineering:slab_steel_scaffolding_standard
 #CB82F8 minecraft:smooth_stone_slab
 #7F6970 mekanism:solar_neutron_activator
+#8F4B3B immersivetechnology:solar_reflector
+#0ED9E4 immersivetechnology:solar_tower
 #80CB73 gtceu:solid_machine_casing
 #479613 gtceu:spatial_storage_hazard_sign_block
 #ECF2CD minecraft:sponge
@@ -541,7 +561,9 @@
 #34CF67 immersiveindustry:steam_turbine
 #9A9CB9 immersivetechnology:steam_turbine
 #F8E608 nuclearscience:steamfunnel
+#1ADE45 immersiveengineering:steel_fence
 #E197A4 gtceu:steel_pipe_casing
+#F428EC immersiveengineering:steel_scaffolding_standard
 #053BA8 gtceu:steel_tiny_fluid_pipe
 #3A984F gtceu:sterilizing_filter_casing
 #753082 minecraft:sticky_piston
@@ -625,6 +647,7 @@
 #A727E4 gtceu:uranium_rhodium_dinaquadide_quadruple_wire
 #D70231 gtceu:uranium_rhodium_dinaquadide_single_wire
 #DFD9FD gtceu:uranium_triplatinum_double_wire
+#C6A423 gtceu:uranium_triplatinum_octal_wire
 #404E0F gtceu:uranium_triplatinum_quadruple_wire
 #1483E6 gtceu:uranium_triplatinum_single_wire
 #496704 gtceu:uv_16a_energy_converter

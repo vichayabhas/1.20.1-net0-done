@@ -275,6 +275,15 @@ ServerEvents.recipes(event => {
     // event.remove({ id: "gtceu:large_chemical_reactor/potassium_hydroxide" })
     //event.replaceInput({ mod: 'gtceu' }, "mekanism:sulfuric_acid", "gtceu:sulfuric_acid")
     //event.replaceInput({mod:"gtceu"},"mekanism:oxygen","gtceu:oxygen")
+    event.shaped(
+    Item.of('minecraft:paper', 3), // The output
+    [
+      'SSS' // The pattern (Top row)
+    ],
+    {
+      S: 'minecraft:sugar_cane' // Defining what 'S' stands for
+    }
+  )
 
 
 })

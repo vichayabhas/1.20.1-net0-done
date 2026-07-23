@@ -5382,5 +5382,299 @@
     },
     "done": true
   },
+  "immersivepetroleum:main/projector": {
+    "criteria": {
+      "projector": "2026-05-10 11:35:06 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2026-05-10 11:36:18 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_liquid": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_pump_clear": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_silk": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_pump_dirt": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_clear_fortune": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_void": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_pump": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_clear": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_silk_dirt": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_dirt": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_clear_silk": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_fortune": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry_fortune_dirt": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/shape_card_quarry": {
+    "criteria": {
+      "shape_card": "2026-05-10 11:55:45 +0700"
+    },
+    "done": true
+  },
+  "immersivetechnology:recipes/building_blocks/crafting/reinforced_coke_brick_slab": {
+    "criteria": {
+      "has_reinforced_coke_brick": "2026-05-31 22:58:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-05-31 23:17:48 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/slab_hempcrete": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_hempcrete": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_chiseled": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_leaded": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2026-05-31 23:42:58 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_pillar": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_brick": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/concrete_brick_cracked": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_from_slab": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/gasoline": {
+    "criteria": {
+      "gasoline": "2026-05-31 23:37:08 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_pillar": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_quarter": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_pillar": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_sheet": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_brick": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_from_slab": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_pillar": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_brick": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_brick": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_to_slab": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_to_slab": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/hempcrete_brick_cracked": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_chiseled": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/stairs_hempcrete": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2026-05-31 23:42:58 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/slab_concrete": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_three_quarter": {
+    "criteria": {
+      "has_concrete": "2026-05-31 23:59:57 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
