@@ -5490,6 +5490,24 @@
     },
     "done": true
   },
+  "immersivepetroleum:main/gasoline": {
+    "criteria": {
+      "gasoline": "2026-05-31 23:37:08 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2026-05-31 23:42:58 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2026-05-31 23:42:58 +0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/stonecutting/slab_hempcrete": {
     "criteria": {
       "has_hempcrete": "2026-05-31 23:44:42 +0700"
@@ -5497,6 +5515,60 @@
     "done": true
   },
   "immersiveengineering:recipes/misc/crafting/stairs_hempcrete": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_from_slab": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_pillar": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_brick": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_pillar": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_brick": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_to_slab": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/hempcrete_brick_cracked": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_chiseled": {
+    "criteria": {
+      "has_hempcrete": "2026-05-31 23:44:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/stairs_hempcrete": {
     "criteria": {
       "has_hempcrete": "2026-05-31 23:44:42 +0700"
     },
@@ -5511,12 +5583,6 @@
   "immersiveengineering:recipes/misc/crafting/concrete_leaded": {
     "criteria": {
       "has_concrete": "2026-05-31 23:59:57 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/railgun": {
-    "criteria": {
-      "has_capacitor_hv": "2026-05-31 23:42:58 +0700"
     },
     "done": true
   },
@@ -5544,18 +5610,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/hempcrete_from_slab": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/gasoline": {
-    "criteria": {
-      "gasoline": "2026-05-31 23:37:08 +0700"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/concrete_pillar": {
     "criteria": {
       "has_concrete": "2026-05-31 23:59:57 +0700"
@@ -5568,21 +5622,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/hempcrete_pillar": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/stonecutting/concrete_sheet": {
     "criteria": {
       "has_concrete": "2026-05-31 23:59:57 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hempcrete_brick": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
     },
     "done": true
   },
@@ -5598,27 +5640,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/stonecutting/hempcrete_pillar": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/stonecutting/hempcrete_brick": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/concrete_brick": {
     "criteria": {
       "has_concrete": "2026-05-31 23:59:57 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hempcrete_to_slab": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
     },
     "done": true
   },
@@ -5628,39 +5652,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/smelting/hempcrete_brick_cracked": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/concrete_tile": {
     "criteria": {
       "has_concrete": "2026-05-31 23:59:57 +0700"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/stonecutting/hempcrete_chiseled": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/stonecutting/concrete_tile": {
     "criteria": {
       "has_concrete": "2026-05-31 23:59:57 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/stonecutting/stairs_hempcrete": {
-    "criteria": {
-      "has_hempcrete": "2026-05-31 23:44:42 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/tesla_coil": {
-    "criteria": {
-      "has_capacitor_hv": "2026-05-31 23:42:58 +0700"
     },
     "done": true
   },
